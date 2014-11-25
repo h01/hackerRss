@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"name": "黑阔RSS更新提醒",
+	"description": "各大{ 关注网络安全 }博客RSS订阅",
+	"homepage_url": "https://github.com/h01/hackerRss",
+	"version": "1.1",
+	"icons": {
+		"128": "src/icon.png"
+	},
+	"background": {
+		"scripts": ["js/background.js"]
+	},
+	"permissions": ["*://*/*", "notifications"]
+}
