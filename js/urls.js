@@ -3,7 +3,7 @@
  *  @version    1.0
  *  @author     Holger
  *  @blog       http://ursb.org/
- *  @update     2014/11/11
+ *  @update     2014/11/27
  */
 
 var urls = [
@@ -74,5 +74,6 @@ var urls = [
     "http://foxck.lofter.com/rss",
     "http://www.aqniu.com/feed",
     "http://evilcos.me/?feed=rss2",
-    "http://luom.net/feed/"
+    "http://luom.net/feed/",
+    "http://drops.wooyun.org/feed"
 ];
