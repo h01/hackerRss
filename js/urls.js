@@ -3,7 +3,7 @@
  *  @version    1.0
  *  @author     Holger
  *  @blog       http://ursb.org/
- *  @update     2014/11/27
+ *  @update     2014/12/06
  */
 
 var urls = [
@@ -29,7 +29,6 @@ var urls = [
     "http://bbs.pediy.com/external.php?type=RSS2",
     "http://3389.in/feed/",
     "http://www.cnseay.com/feed/",
-    "http://x95.org/rss.php",
     "http://www.03sec.com/feed",
     "http://phpinfo.me/feed",
     "http://www.xocoder.com/feed",
