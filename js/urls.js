@@ -15,7 +15,7 @@ var urls = [
     "http://www.hzsvs.cn/feed.php",
     "http://honker90.sinaapp.com/feed",
     "http://www.nxadmin.com/rss",
-    "http://www.lshack.cn/?feed=rss2",
+    // "http://www.lshack.cn/?feed=rss2",#无法访问
     "http://p2j.cn/?feed=rss2",
     "http://0day5.com/feed",
     "http://blog.80host.com/feed",
@@ -40,7 +40,7 @@ var urls = [
     "http://www.marioo.net/feed",
     "http://www.iyan.pw/feed",
     "http://xxooer.info/feed",
-    "http://x95.org/rss.php",
+    // "http://x95.org/rss.php",#404
     "http://bigtang.org/feed/",
     // "http://www.luxingmin.com/feed/",#无法访问
     "http://www.5iadmin.com/rss.xml",
@@ -75,5 +75,7 @@ var urls = [
     "http://www.aqniu.com/feed",
     "http://evilcos.me/?feed=rss2",
     "http://luom.net/feed/",
-    "http://drops.wooyun.org/feed"
+    "http://drops.wooyun.org/feed",
+    "http://www.hackersb.cn/rss",
+    "http://www.alloyteam.com/rss"
 ];
